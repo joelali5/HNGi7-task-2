@@ -9,4 +9,4 @@ function Information() {
       
       return `Hello World, this is ${details.fullname} with HNGi7 ID ${details.ID} using ${details.language} for stage 2 task`;
   }
-    Information();
+    console.log(Information());
